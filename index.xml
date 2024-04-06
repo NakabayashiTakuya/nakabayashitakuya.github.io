@@ -102,23 +102,7 @@
       <link>https://nakabayashitakuya.github.io/news/join_mmsports2023/</link>
       <pubDate>Sat, 28 Oct 2023 12:00:00 +0000</pubDate>
       <guid>https://nakabayashitakuya.github.io/news/join_mmsports2023/</guid>
-      <description>&lt;!-- 
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Slides can be added in a few ways:
-
-- **Create** slides using Hugo Blox Builder&#39;s [_Slides_](https://docs.hugoblox.com/reference/content-types/) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
-
-Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page. --&gt;
-&lt;p&gt;I atteneded ACM Multimedia 2023 held in Ottawa, Canada. I made a presentation at ACM MMSports 2023, one of ACM Multimedia workshops.&lt;/p&gt;
+      <description>&lt;p&gt;I atteneded ACM Multimedia 2023 held in Ottawa, Canada. I made a presentation at ACM MMSports 2023, one of ACM Multimedia workshops.&lt;/p&gt;
 </description>
     </item>
     
@@ -176,21 +160,48 @@ Our paper can be checked from &lt;a href=&#34;https://dl.acm.org/doi/pdf/10.1145
     </item>
     
     <item>
+      <title>I joined MVA 2023!</title>
+      <link>https://nakabayashitakuya.github.io/news/join_mva2023/</link>
+      <pubDate>Sun, 23 Jul 2023 12:00:00 +0000</pubDate>
+      <guid>https://nakabayashitakuya.github.io/news/join_mva2023/</guid>
+      <description>&lt;p&gt;I atteneded MVA 2023 held in Hamamatsu, Japan. I made a poster presentation there.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Unsupervised Fall Detection on Edge Devices</title>
       <link>https://nakabayashitakuya.github.io/publication/spresense_fall_detection/</link>
       <pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate>
       <guid>https://nakabayashitakuya.github.io/publication/spresense_fall_detection/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
   &lt;/div&gt;
 &lt;/div&gt;
+
+
+
+
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
   &lt;/div&gt;
 &lt;/div&gt;
-&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+
+
+Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>I joined CVPRW 2023!</title>
+      <link>https://nakabayashitakuya.github.io/news/join_cvprw2023/</link>
+      <pubDate>Thu, 22 Jun 2023 12:00:00 +0000</pubDate>
+      <guid>https://nakabayashitakuya.github.io/news/join_cvprw2023/</guid>
+      <description>&lt;p&gt;I joined 4th International Workshop on Event-Based Vision, one of CVPR workshops.
+Our paper can be checked from &lt;a href=&#34;https://openaccess.thecvf.com/content/CVPR2023W/EventVision/papers/Nakabayashi_Event-Based_Blur_Kernel_Estimation_for_Blind_Motion_Deblurring_CVPRW_2023_paper.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -210,6 +221,26 @@ Our paper can be checked from &lt;a href=&#34;https://dl.acm.org/doi/pdf/10.1145
   &lt;/div&gt;
 &lt;/div&gt;
 &lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Our paper has been accepted to MVA 2023!</title>
+      <link>https://nakabayashitakuya.github.io/news/accepted_to_mva2023/</link>
+      <pubDate>Wed, 14 Jun 2023 12:00:00 +0000</pubDate>
+      <guid>https://nakabayashitakuya.github.io/news/accepted_to_mva2023/</guid>
+      <description>&lt;p&gt;Our paper &amp;ldquo;Unsupervised Fall Detection on Edge Devices&amp;rdquo; has been accepted to MVA 2023 held in Hamamatsu, Japan.
+Our paper can be checked from &lt;a href=&#34;https://ieeexplore.ieee.org/abstract/document/10215993&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Our paper has been accepted to CVPRW 2023!</title>
+      <link>https://nakabayashitakuya.github.io/news/accepted_to_cvprw2023/</link>
+      <pubDate>Tue, 04 Apr 2023 12:00:00 +0000</pubDate>
+      <guid>https://nakabayashitakuya.github.io/news/accepted_to_cvprw2023/</guid>
+      <description>&lt;p&gt;Our paper &amp;ldquo;Event-based Blur Kernel Estimation For Blind Motion Deblurring&amp;rdquo; has been accepted to CVPR Workshop (4th International Workshop on Event-Based Vision).
+Our paper can be checked from &lt;a href=&#34;https://openaccess.thecvf.com/content/CVPR2023W/EventVision/papers/Nakabayashi_Event-Based_Blur_Kernel_Estimation_for_Blind_Motion_Deblurring_CVPRW_2023_paper.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -397,7 +428,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-629874513&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-387925416&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -407,7 +438,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-629874513&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-387925416&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
