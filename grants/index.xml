@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks | Takuya Nakabayashi</title>
+    <link>https://nakabayashitakuya.github.io/grants/</link>
+      <atom:link href="https://nakabayashitakuya.github.io/grants/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Talks</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 28 Mar 2024 12:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nakabayashitakuya.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://nakabayashitakuya.github.io/grants/</link>
+    </image>
+    
+    <item>
+      <title>JST Support for Pioneering Research Initiated by the Next Generation</title>
+      <link>https://nakabayashitakuya.github.io/grants/jst2024/</link>
+      <pubDate>Thu, 28 Mar 2024 12:00:00 +0000</pubDate>
+      <guid>https://nakabayashitakuya.github.io/grants/jst2024/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.jst.go.jp/jisedai/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;JST Support for Pioneering Research Initiated by the Next Generation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>JSPS Overseas Challenge Program for Young Researchers</title>
+      <link>https://nakabayashitakuya.github.io/grants/jsps_young_researchers/</link>
+      <pubDate>Sat, 16 Dec 2023 12:00:00 +0000</pubDate>
+      <guid>https://nakabayashitakuya.github.io/grants/jsps_young_researchers/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.jsps.go.jp/english/e-abc/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;JSPS Overseas Challenge Program for Young Researchers&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
