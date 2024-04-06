@@ -33,6 +33,15 @@
     </item>
     
     <item>
+      <title>田村淳記念奨学金</title>
+      <link>https://nakabayashitakuya.github.io/grants/tamura2024/</link>
+      <pubDate>Fri, 29 Mar 2024 12:00:00 +0000</pubDate>
+      <guid>https://nakabayashitakuya.github.io/grants/tamura2024/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.st.keio.ac.jp/students/life/shogakukin/2024_tokubetsushougakukin.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;田村淳記念奨学金&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>JST Support for Pioneering Research Initiated by the Next Generation</title>
       <link>https://nakabayashitakuya.github.io/grants/jst2024/</link>
       <pubDate>Thu, 28 Mar 2024 12:00:00 +0000</pubDate>
@@ -428,7 +437,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-387925416&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-416827395&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -438,7 +447,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-387925416&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-416827395&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
