@@ -5,12 +5,22 @@
     <link>https://nakabayashitakuya.github.io/news/</link>
       <atom:link href="https://nakabayashitakuya.github.io/news/index.xml" rel="self" type="application/rss+xml" />
     <description>News</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 28 Oct 2023 12:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 25 Apr 2024 12:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nakabayashitakuya.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>News</title>
       <link>https://nakabayashitakuya.github.io/news/</link>
     </image>
+    
+    <item>
+      <title>Our paper has been accepted to CVPRW 2024!</title>
+      <link>https://nakabayashitakuya.github.io/news/accepted_to_cvprw2024/</link>
+      <pubDate>Thu, 25 Apr 2024 12:00:00 +0000</pubDate>
+      <guid>https://nakabayashitakuya.github.io/news/accepted_to_cvprw2024/</guid>
+      <description>&lt;p&gt;Our paper &amp;ldquo;Event-based Ball Spin Estimation in Sports&amp;rdquo; has been accepted to CVsports 2024, one of CVPR workshops.
+See you in Seattle!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>I joined ACM MMSports 2023!</title>
