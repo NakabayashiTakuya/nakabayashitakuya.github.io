@@ -5,12 +5,23 @@
     <link>https://nakabayashitakuya.github.io/news/</link>
       <atom:link href="https://nakabayashitakuya.github.io/news/index.xml" rel="self" type="application/rss+xml" />
     <description>News</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 25 Apr 2024 12:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Jun 2024 12:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nakabayashitakuya.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>News</title>
       <link>https://nakabayashitakuya.github.io/news/</link>
     </image>
+    
+    <item>
+      <title>I joined CVPRW 2024!</title>
+      <link>https://nakabayashitakuya.github.io/news/join_cvprw2024/</link>
+      <pubDate>Mon, 24 Jun 2024 12:00:00 +0000</pubDate>
+      <guid>https://nakabayashitakuya.github.io/news/join_cvprw2024/</guid>
+      <description>&lt;p&gt;I joined 10th International Workshop on Computer Vision in Sports (CVsports) at CVPR 2024.
+We won the third prize!
+Our paper can be checked from &lt;a href=&#34;https://openaccess.thecvf.com/content/CVPR2024W/CVsports/papers/Nakabayashi_Event-based_Ball_Spin_Estimation_in_Sports_CVPRW_2024_paper.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Our paper has been accepted to CVPRW 2024!</title>

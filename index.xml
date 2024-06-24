@@ -33,6 +33,53 @@
     </item>
     
     <item>
+      <title>I joined CVPRW 2024!</title>
+      <link>https://nakabayashitakuya.github.io/news/join_cvprw2024/</link>
+      <pubDate>Mon, 24 Jun 2024 12:00:00 +0000</pubDate>
+      <guid>https://nakabayashitakuya.github.io/news/join_cvprw2024/</guid>
+      <description>&lt;p&gt;I joined 10th International Workshop on Computer Vision in Sports (CVsports) at CVPR 2024.
+We won the third prize!
+Our paper can be checked from &lt;a href=&#34;https://openaccess.thecvf.com/content/CVPR2024W/CVsports/papers/Nakabayashi_Event-based_Ball_Spin_Estimation_in_Sports_CVPRW_2024_paper.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Event-based Ball Spin Estimation in Sports</title>
+      <link>https://nakabayashitakuya.github.io/publication/event_ball_spin_estimation/</link>
+      <pubDate>Mon, 24 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://nakabayashitakuya.github.io/publication/event_ball_spin_estimation/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>JST Broadening Opportunities for Outstanding young researchers and doctoral students in STrategic areas (BOOST)</title>
+      <link>https://nakabayashitakuya.github.io/grants/boost/</link>
+      <pubDate>Mon, 24 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://nakabayashitakuya.github.io/grants/boost/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.jst.go.jp/program/boost/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;JST Broadening Opportunities for Outstanding young researchers and doctoral students in STrategic areas&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Our paper has been accepted to CVPRW 2024!</title>
       <link>https://nakabayashitakuya.github.io/news/accepted_to_cvprw2024/</link>
       <pubDate>Thu, 25 Apr 2024 12:00:00 +0000</pubDate>
@@ -44,18 +91,18 @@ See you in Seattle!&lt;/p&gt;
     
     <item>
       <title>田村淳記念奨学金</title>
-      <link>https://nakabayashitakuya.github.io/grants/tamura2024/</link>
+      <link>https://nakabayashitakuya.github.io/grants/tamura/</link>
       <pubDate>Fri, 29 Mar 2024 12:00:00 +0000</pubDate>
-      <guid>https://nakabayashitakuya.github.io/grants/tamura2024/</guid>
+      <guid>https://nakabayashitakuya.github.io/grants/tamura/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://www.st.keio.ac.jp/students/life/shogakukin/2024_tokubetsushougakukin.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;田村淳記念奨学金&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>JST Support for Pioneering Research Initiated by the Next Generation</title>
-      <link>https://nakabayashitakuya.github.io/grants/jst2024/</link>
+      <title>JST Support for Pioneering Research Initiated by the Next Generation (SPRING)</title>
+      <link>https://nakabayashitakuya.github.io/grants/spring/</link>
       <pubDate>Thu, 28 Mar 2024 12:00:00 +0000</pubDate>
-      <guid>https://nakabayashitakuya.github.io/grants/jst2024/</guid>
+      <guid>https://nakabayashitakuya.github.io/grants/spring/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://www.jst.go.jp/jisedai/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;JST Support for Pioneering Research Initiated by the Next Generation&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
@@ -447,7 +494,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-571942368&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-182436795&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -457,7 +504,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-571942368&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-182436795&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
