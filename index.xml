@@ -33,6 +33,17 @@
     </item>
     
     <item>
+      <title>I started my internship at Max Planck Institute for Informatics.</title>
+      <link>https://nakabayashitakuya.github.io/news/mpi_stay/</link>
+      <pubDate>Tue, 15 Oct 2024 12:00:00 +0000</pubDate>
+      <guid>https://nakabayashitakuya.github.io/news/mpi_stay/</guid>
+      <description>&lt;p&gt;I started my internship at Max Planck Institute for Informatics in Germany!
+&lt;a href=&#34;https://people.mpi-inf.mpg.de/~golyanik/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Vladislav Golyanik&lt;/a&gt; advises me during the internship.
+I will stay in MPI until February 2025.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>I joined CVPRW 2024!</title>
       <link>https://nakabayashitakuya.github.io/news/join_cvprw2024/</link>
       <pubDate>Mon, 24 Jun 2024 12:00:00 +0000</pubDate>
@@ -494,7 +505,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-895362147&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-817469325&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -504,7 +515,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-895362147&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-817469325&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
